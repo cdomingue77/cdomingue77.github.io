@@ -1,0 +1,33 @@
+/* Create a HTML */
+h1 {
+    color: blue;
+}
+
+/* Create class */
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Create an ID */
+#about {
+    background-color: #f0f0f0;
+}
+
+/* Change the color of links on hover */
+a:hover {
+    color: red;
+}
+
+/* Change box model */
+.section {
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Image */
+.project img {
+    max-width: 100%;
+}
+
+
